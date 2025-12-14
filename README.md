@@ -31,10 +31,11 @@ This repository contains the **Week 7 assignments** for the course **AIT-620: Me
 - pandas, numpy, matplotlib, seaborn, scikit-learn
 
 ## Repository Structure
-
+```
 AIT-620-Week7/
 │
 ├── Assignment 7.1.ipynb       # Data Preprocessing: Canada Immigration Dataset
 ├── Assignment 7.2.ipynb       # Activity 5.01: Clustering Sales Data Using K-Means
 ├── README.md                  # Project description and instructions
 └── Canada_Immigration.csv     # Dataset for Assignment 7.1
+```
